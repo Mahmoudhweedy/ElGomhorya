@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "349030470046",
+    "project_id": "elgomhorya",
+    "storage_bucket": "elgomhorya.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349030470046:android:76b9b7f9211371cbc4068f",
+        "android_client_info": {
+          "package_name": "com.innovation.elgomhorya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349030470046-t6rp96gnida7g5meethr3ufgbddrams0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.innovation.elgomhorya",
+            "certificate_hash": "242a0316305e6746cc183f56d668e5fd0ce914ae"
+          }
+        },
+        {
+          "client_id": "349030470046-uk3b2j5nsebqcrigvdbcr74kbtbbahkn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByfSPToLKl_ED-DtXQi7vaVqXbeOiDrNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349030470046-uk3b2j5nsebqcrigvdbcr74kbtbbahkn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

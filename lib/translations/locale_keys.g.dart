@@ -1,0 +1,52 @@
+// DO NOT EDIT. This is code generated via package:easy_localization/generate.dart
+
+abstract class LocaleKeys {
+  static const welcome = 'welcome';
+  static const application_name = 'application_name';
+  static const app_purpose = 'app_purpose';
+  static const app_description = 'app_description';
+  static const new_account = 'new_account';
+  static const login_button = 'login_button';
+  static const social_media_login = 'social_media_login';
+  static const create_account = 'create_account';
+  static const mobile_number = 'mobile_number';
+  static const terms_and_conditions_approve = 'terms_and_conditions_approve';
+  static const next = 'next';
+  static const confirm_mobile_number = 'confirm_mobile_number';
+  static const enter_confirmation_code = 'enter_confirmation_code';
+  static const exist_in_messages = 'exist_in_messages';
+  static const buy_now = 'buy_now';
+  static const more = 'more';
+  static const latest_offers = 'latest_offers';
+  static const price_before_discount = 'price_before_discount';
+  static const price_after_discount = 'price_after_discount';
+  static const add_to_cart = 'add_to_cart';
+  static const best_seller = 'best_seller';
+  static const categories = 'categories';
+  static const browse_categories = 'browse_categories';
+  static const sub_categories = 'sub_categories';
+  static const companies = 'companies';
+  static const elsewedy = 'elsewedy';
+  static const products = 'products';
+  static const wholesale = 'wholesale';
+  static const retial = 'retial';
+  static const add_to_your_cart = 'add_to_your_cart';
+  static const cart = 'cart';
+  static const home = 'home';
+  static const screwdrivers = 'screwdrivers';
+  static const total_cost = 'total_cost';
+  static const egp = 'egp';
+  static const profile_picture = 'profile_picture';
+  static const name = 'name';
+  static const dokki = 'dokki';
+  static const total_purchases = 'total_purchases';
+  static const purchase_orders = 'purchase_orders';
+  static const about_us = 'about_us';
+  static const language = 'language';
+  static const help = 'help';
+  static const product_reviews = 'product_reviews';
+  static const reviews = 'reviews';
+  static const lorem = 'lorem';
+  static const continue_button = 'continue_button';
+  static const welcome_button_text = 'welcome_button_text';
+}
