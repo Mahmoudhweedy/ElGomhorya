@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f79e62a5-1fa1-4747-902d-2656e403e78f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1tDZVMYdeONhA48Osz5fg4WeMcs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="flutter.settings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/android" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f79e62a5-1fa1-4747-902d-2656e403e78f" name="Default Changelist" comment="" />
+      <created>1622305642295</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622305642295</updated>
+    </task>
+    <task id="LOCAL-00001" summary="mohamed">
+      <created>1622308171405</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1622308171405</updated>
+    </task>
+    <task id="LOCAL-00002" summary="mohamed">
+      <created>1622310664818</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1622310664818</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="mohamed" />
+    <option name="LAST_COMMIT_MESSAGE" value="mohamed" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="178" y="23" key="CommitChangelistDialog2" timestamp="1622310664291">
+      <screen x="0" y="23" width="1366" height="679" />
+    </state>
+    <state x="178" y="23" key="CommitChangelistDialog2/0.23.1366.677@0.23.1366.677" timestamp="1622308289583" />
+    <state x="178" y="23" key="CommitChangelistDialog2/0.23.1366.679@0.23.1366.679" timestamp="1622310664291" />
+    <state x="222" y="23" key="SettingsEditor" timestamp="1622310220531">
+      <screen x="0" y="23" width="1366" height="677" />
+    </state>
+    <state x="222" y="23" key="SettingsEditor/0.23.1366.677@0.23.1366.677" timestamp="1622310220531" />
+    <state x="283" y="89" key="Vcs.Push.Dialog.v2" timestamp="1622310667636">
+      <screen x="0" y="23" width="1366" height="679" />
+    </state>
+    <state x="283" y="89" key="Vcs.Push.Dialog.v2/0.23.1366.677@0.23.1366.677" timestamp="1622308173542" />
+    <state x="283" y="89" key="Vcs.Push.Dialog.v2/0.23.1366.679@0.23.1366.679" timestamp="1622310667636" />
+    <state x="463" y="283" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1622310093385">
+      <screen x="0" y="23" width="1366" height="677" />
+    </state>
+    <state x="463" y="283" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1366.677@0.23.1366.677" timestamp="1622310093385" />
+  </component>
+</project>
